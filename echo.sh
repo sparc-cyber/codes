@@ -1,1 +1,1 @@
-echo "My name is Fayas Muhammed Hashim"
+echo "My name is Fayas Muhammed Hashim, I'm an ethical hacker"
